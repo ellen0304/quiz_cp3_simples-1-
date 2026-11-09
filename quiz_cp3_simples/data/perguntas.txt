@@ -1,0 +1,6 @@
+Qual e a capital do Brasil?;Sao Paulo;Rio de Janeiro;Brasilia;Salvador;C
+Quanto e 5 + 3?;5;8;9;7;B
+Quem proclamou a Independˆncia do Brasil em 1822?;Dom Pedro I;Pedro µlvares Cabral;Marechal Deodoro da Fonseca;Tiradentes;A
+Quanto ‚ 2+2 ?;1;2;3;4;D
+Quanto ‚ 5 + 1?;1;4;5;6;D
+Quanto ‚ 15+1?;10;12;16;19;C
