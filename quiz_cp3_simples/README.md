@@ -69,11 +69,11 @@ Após a compilação sem erros, execute:
 
 **Repositório no GitHub:**
 
-[Inserir aqui o link do repositório]
+https://github.com/ellen0304/quiz_cp3_simples-1-/tree/main
 
 **Vídeo de demonstração (não listado):**
 
-[Inserir aqui o link do vídeo]
+https://drive.google.com/file/d/1N5xQpAp_ghdv7IJBKWMBgioc0Ro7Vsy8/view?usp=sharing
 
 ## Objetivo acadêmico
 
